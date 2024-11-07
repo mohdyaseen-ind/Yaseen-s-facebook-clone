@@ -1,0 +1,133 @@
+body{
+    margin: 0px;
+}
+.body{
+    display: flex;
+    margin: 0px;
+    background-color: rgb(242, 244, 247);
+    font-family: sans-serif;
+}
+.left img{
+    width: 265px;
+    height: 145px;
+    margin-left: 252px;
+    margin-top: 150px;
+}
+.left h1{
+    margin-left: 251px;
+    font-weight: 400;
+    margin-top: -33px;
+    font-size: 28px;
+}
+.right{
+    width: 396px;
+    height: 349.34px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 125px;
+    margin-left: 90px;
+    border-radius: 7px;
+    box-shadow: 5px 5px 15px rgba(0.1,0.1,0.1,0.1);
+}
+.textbox{
+    margin-top: 15px;
+    margin-left: 16px;
+    width: 345px;
+    height: 48px;
+    border-radius: 5px;
+    border: 1px solid rgb(221,222,224);
+    padding-left:15px;
+    font-size: 17px;
+    color: rgb(190,192,196);
+}
+.login{
+    margin-top: 15px;
+    margin-left: 16px;
+    width: 210px;
+    height: 37px;
+    border-radius: 5px;
+    padding-left:155px;
+    padding-top: 12px;
+    font-size: 17px;
+    background-color: rgb(44,100,246);
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+.login:hover{
+    background-color: #3b5998;
+}
+.pass{
+    margin-left: 130px;
+    color: rgb(44,100,246);
+    font-size: 15px;
+}
+.pass:hover{
+   color:#3b5998;
+}
+.line{
+    width:350px;
+    height:1px;
+    background-color: gainsboro;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.signup{
+    width: 191px;
+    height: 35px;
+    background-color: rgb(101,181,67);
+    margin-left: 104px;
+    margin-top: 25px;
+    border-radius: 6px;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    font-size: large;
+}
+.signup:hover{
+    background-color: green;
+}
+.space{
+    width: 600px;
+    height: 220px;
+    background-color: rgb(242, 244, 247);
+    padding-left: 860px;
+    padding-top: 25px;
+}
+
+.low_body{
+    margin: 0px;
+    background-color: rgb(242, 244, 247);
+    font-family: sans-serif;
+}
+b{
+    color: black
+}
+b:hover{
+    border-bottom: 1px solid black;
+}
+.footer a{
+    color: rgb(139,141,146);
+    font-family: sans-serif;
+    margin-left: 30px;
+}
+.footer{
+    margin-top: 30px;
+    text-align: center;
+}
+p{
+margin-left: 30px;
+color: rgb(139,141,146);
+}
+
+.line {
+    height: 1px;
+    width: 97%;
+    background-color: rgb(139,141,146);
+    justify-content: center;
+}
+.last{
+    margin-left: 90px;
+}
